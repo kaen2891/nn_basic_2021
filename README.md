@@ -1,3 +1,18 @@
+## Term Project of NN 2021
+
+I achieved the top accuracy as 98.82% from the r152x2 upstream model.
+./term_project_r152x2_ver1/r152x2_val_res.png
+
+Further, I got the 98.63% and 97.57% accuracy from r101x3, r50x1 respectively.
+./term_project_r101x3_ver1/r101x3_val_res.png
+./term_project_r50x1_ver3/r50x1_val_res.png
+
+All the CIFAR-10 downstream tasks are performed on 4-GPU NVIDIA TITAN RTX (24GB). To reduce the time, I used the parallel GPU of Pytorch. (Note that this is not DDP from Pytorch)
+
+For more details, please visit the BiT's website: https://github.com/google-research/big_transfer
+
+*From here, the followings are from Google github.
+
 ## Big Transfer (BiT): General Visual Representation Learning
 *by Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Joan Puigcerver, Jessica Yung, Sylvain Gelly, Neil Houlsby*
 
