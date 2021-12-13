@@ -1,6 +1,6 @@
 ## Term Project of NN 2021
 
-I achieved the top accuracy as 98.82% from the r152x2 upstream model.
+I achieved the top CIFAR-10 accuracy of 98.82% from the r152x2 upstream model.
 ![fig1](./term_project_r152x2_ver1/r152x2_val_res.png)
 
 Further, I got the 98.63% and 97.57% accuracy from r101x3, r50x1 respectively.
