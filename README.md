@@ -11,7 +11,7 @@ All the CIFAR-10 downstream tasks are performed on 4-GPU NVIDIA TITAN RTX (24GB)
 
 For more details, please visit the BiT's website: https://github.com/google-research/big_transfer
 
-*From here, the followings are from Google github.
+**From here, the followings are from Google github.
 
 ## Big Transfer (BiT): General Visual Representation Learning
 *by Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Joan Puigcerver, Jessica Yung, Sylvain Gelly, Neil Houlsby*
